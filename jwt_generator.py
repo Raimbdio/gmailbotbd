@@ -13,7 +13,7 @@ USERAGENT = "Dalvik/2.1.0 (Linux; U; Android 13; CPH2095 Build/RKQ1.211119.001)"
 TELEGRAM_TOKEN = "8261219066:AAEzbCpfELCsaft_r4vgZLbM9sGKXAM32sA"
 TELEGRAM_CHAT_ID = 8118743556
 BRANCH_NAME = "main"
-JWT_API_URL = "https://jwt-api-aditya-ffm.vercel.app/token"
+JWT_API_URL = "https://gmailbotbd.vercel.app/token"
 
 # --- Telegram ---
 def send_telegram_message(message):
